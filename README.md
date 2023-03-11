@@ -1,2 +1,2 @@
 # portfolio
-this is my personal portfolio website repo
+this is the personal portfolio website repo for marvelous
